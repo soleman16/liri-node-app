@@ -117,7 +117,7 @@ let songs = {
         });
          
         spotify
-          .search({ type: 'track', query: userSearch, limit: 2 })
+          .search({ type: 'track', query: userSearch, limit: 10 })
           .then(function(response) {
             songs.displayResults(response);
           })
