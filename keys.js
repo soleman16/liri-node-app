@@ -1,4 +1,4 @@
-console.log('Loading environment info...');
+console.log('Loading environment info...\n');
 
 exports.spotify = {
   id: process.env.SPOTIFY_ID,

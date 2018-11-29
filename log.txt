@@ -1,1 +1,238 @@
+Venue Name: Saenger Theatre Mobile
+Venue Location: Mobile, AL United States
+Event Date: 11/29/2018
+
+Venue Name: Coca-Cola Roxy
+Venue Location: Atlanta, GA United States
+Event Date: 11/30/2018
+
+Venue Name: Florida Theatre
+Venue Location: Jacksonville, FL United States
+Event Date: 12/01/2018
+
+Venue Name: Ovens Auditorium
+Venue Location: Charlotte, NC United States
+Event Date: 12/02/2018
+
+Venue Name: Dominion Energy Center
+Venue Location: 🇺🇸richmond, VA United States
+Event Date: 12/04/2018
+
+Venue Name: F.M. Kirby Center for the Performing Arts
+Venue Location: Wilkes Barre, PA United States
+Event Date: 12/05/2018
+
+Venue Name: Place Bell
+Venue Location: Laval,  Canada
+Event Date: 12/07/2018
+
+Venue Name: Sony Centre For the Performing Arts
+Venue Location: Toronto,  Canada
+Event Date: 12/08/2018
+
+Venue Name: Hippodrome Theatre
+Venue Location: Baltimore, MD United States
+Event Date: 12/10/2018
+
+Venue Name: Tower Theater
+Venue Location: 🇺🇸upper Darby, PA United States
+Event Date: 12/11/2018
+
+Venue Name: Palace Theatre
+Venue Location: Albany, NY United States
+Event Date: 12/13/2018
+
+Venue Name: Boch Center - Wang Theatre
+Venue Location: Boston, MA United States
+Event Date: 12/14/2018
+
+Venue Name: Barclays Center
+Venue Location: Brooklyn, NY United States
+Event Date: 12/15/2018
+
+Venue Name: Tony Garnier
+Venue Location: 🇫🇷lyon,  France
+Event Date: 02/03/2019
+
+Venue Name: AFAS Live
+Venue Location: 🇳🇱amsterdam,  Netherlands
+Event Date: 02/05/2019
+
+Venue Name: Lotto Arena
+Venue Location: 🇧🇪antwerpen,  Belgium
+Event Date: 02/06/2019
+
+Venue Name: Zenith Paris - La Villette
+Venue Location: 🇫🇷paris,  France
+Event Date: 02/07/2019
+
+Venue Name: Schleyerhalle
+Venue Location: 🇩🇪stuttgart,  Germany
+Event Date: 02/14/2019
+
+Venue Name: Ruhrkongress
+Venue Location: 🇩🇪bochum,  Germany
+Event Date: 02/15/2019
+
+Venue Name: Swiss Life Hall
+Venue Location: 🇩🇪hannover,  Germany
+Event Date: 02/17/2019
+
+Venue Name: Sporthalle des Heilwig-Gymnasiums
+Venue Location: 🇩🇪hamburg,  Germany
+Event Date: 02/18/2019
+
+Venue Name: Gothenburg Scandinavium
+Venue Location: 🇸🇪gothenburg,  Sweden
+Event Date: 02/20/2019
+
+Venue Name: Oslo Spektrum
+Venue Location: 🇳🇴oslo,  Norway
+Event Date: 02/21/2019
+
+Venue Name: Ericsson Globe
+Venue Location: 🇸🇪stockholm,  Sweden
+Event Date: 02/23/2019
+
+Venue Name: The Tivoli
+Venue Location: Brisbane,  Australia
+Event Date: 03/06/2019
+
+Venue Name: Download Festival
+Venue Location: 🇦🇺sydney,  Australia
+Event Date: 03/09/2019
+
+Venue Name: Download Festival
+Venue Location: 🇦🇺melbourne,  Australia
+Event Date: 03/11/2019
+
+Venue Name: Estadio Restelo
+Venue Location: 🇵🇹 Lisbon,  Portugal
+Event Date: 05/01/2019
+
+Venue Name: valdebebas
+Venue Location: 🇪🇸madrid,  Spain
+Event Date: 05/03/2019
+
+Venue Name: Estadi Olímpic
+Venue Location: 🇪🇸barcelona,  Spain
+Event Date: 05/05/2019
+
+Venue Name: San Siro Hippodrome
+Venue Location: 🇮🇹milan,  Italy
+Event Date: 05/08/2019
+
+Venue Name: Stadion Letzigrund
+Venue Location: 🇨🇭zürich,  Switzerland
+Event Date: 05/10/2019
+
+Venue Name: Stade de France
+Venue Location: 🇫🇷paris,  France
+Event Date: 05/12/2019
+
+Venue Name: Slane Castle
+Venue Location: 🇮🇪dublin,  Ireland
+Event Date: 06/08/2019
+
+Venue Name: Arena Amsterdam
+Venue Location: 🇳🇱amsterdam,  Netherlands
+Event Date: 06/11/2019
+
+Venue Name: E-Stadion
+Venue Location: 🇩🇪cologne,  Germany
+Event Date: 06/13/2019
+
+Venue Name: King Baudouin Stadium
+Venue Location: 🇧🇪brussels,  Belgium
+Event Date: 06/16/2019
+
+Venue Name: Etihad Stadium
+Venue Location: 🇬🇧manchester,  United Kingdom
+Event Date: 06/18/2019
+
+Venue Name: Twickenham
+Venue Location: 🇬🇧london,  United Kingdom
+Event Date: 06/20/2019
+
+Venue Name: Olympiastadion Berlin
+Venue Location: 🇩🇪berlin,  Germany
+Event Date: 07/06/2019
+
+Venue Name: Ullevi
+Venue Location: 🇸🇪gothenburg,  Sweden
+Event Date: 07/09/2019
+
+Venue Name: Telia Parken
+Venue Location: 🇩🇰copenhagen,  Denmark
+Event Date: 07/11/2019
+
+Venue Name: Granasen
+Venue Location: 🇳🇴trondheim,  Norway
+Event Date: 07/13/2019
+
+Venue Name: Festival Park
+Venue Location: 🇫🇮hammelina,  Finland
+Event Date: 07/16/2019
+
+Venue Name: Raadi Airport
+Venue Location: 🇪🇪tartu,  Estonia
+Event Date: 07/18/2019
+
+Venue Name: Luzhniki
+Venue Location: 🇷🇺moscow,  Russia
+Event Date: 07/21/2019
+
+Venue Name: Stadionul National
+Venue Location: 🇷🇴bucharest,  Romania
+Event Date: 08/14/2019
+
+Venue Name: Ernst-Happel-Stadion
+Venue Location: 🇦🇹wien,  Austria
+Event Date: 08/16/2019
+
+Venue Name: Letnany Airport
+Venue Location: 🇨🇿prague,  Czech Republic
+Event Date: 08/18/2019
+
+Venue Name: PGE Narodowy
+Venue Location: 🇵🇱warszawa,  Poland
+Event Date: 08/21/2019
+
+Venue Name: Olympiastadion Munchen
+Venue Location: 🇩🇪münchen,  Germany
+Event Date: 08/23/2019
+
+Venue Name: Maimarkt Mannheim
+Venue Location: 🇩🇪mannheim,  Germany
+Event Date: 08/25/2019
+
+Artists(s): U2
+Song name: Beautiful Day
+Preview link: null
+Album name: All That You Can't Leave Behind
+
+Artists(s): Michael Bublé
+Song name: It's A Beautiful Day
+Preview link: https://p.scdn.co/mp3-preview/7eea4fbd8aa6c11d2dc0dee7158b4b50c26202a6?cid=dbe02b447a384054b2eabb5e507fcdcb
+Album name: To Be Loved
+
+Artists(s): Ariana Grande
+Song name: raindrops (an angel cried)
+Preview link: null
+Album name: Sweetener
+
+Artists(s): Shaggy,Rayvon
+Song name: Angel
+Preview link: null
+Album name: Hot Shot
+
+Artists(s): Ariana Grande
+Song name: raindrops (an angel cried)
+Preview link: null
+Album name: Sweetener
+
+Artists(s): Shaggy,Rayvon
+Song name: Angel
+Preview link: null
+Album name: Hot Shot
 
