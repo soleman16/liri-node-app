@@ -1,5 +1,9 @@
 # liri-node-app
 
+### Demo
+
+Please view the `liri-node-app-video.zip` included in the root directory of this project to see a demo of this application.
+
 ### Running the Program
 
 To run the program, you have two options:
