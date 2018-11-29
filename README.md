@@ -1,5 +1,12 @@
 # liri-node-app
 
+### Running the Program
+
+To run the program, you have two options:
+
+1. Simply type `node liri.js` - This will prompt you to select a command and enter a search
+1. Type `node liri.js <command> <search>` - For more information on this option please see the `Commands` section
+
 ### Commands
 
 1. concert-this - This will return back a list of events that match the search criteria and will include relevant information for that event.
